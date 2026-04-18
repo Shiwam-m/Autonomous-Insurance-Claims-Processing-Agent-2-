@@ -114,8 +114,8 @@ JSON Output
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/Shiwam-m/Autonomous-Insurance-Claims-Processing-Agent-2->
-cd <Autonomous Insurance Claims Agent>
+git clone https://github.com/Shiwam-m/Autonomous-Insurance-Claims-Processing-Agent-2-
+cd Autonomous Insurance Claims Agent
 ```
 
 ### 2. Run the script
