@@ -2,6 +2,7 @@
 
 ## Overview
 
+
 This project implements a lightweight **Autonomous Insurance Claims Processing Agent** that processes FNOL (First Notice of Loss) documents.  
 The agent extracts structured information from unstructured text, validates required fields, classifies the claim, and routes it to the appropriate workflow based on predefined business rules.
 
